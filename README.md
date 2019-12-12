@@ -1,5 +1,5 @@
-# mapping_robot
-## Cornell ECE5725 final Project
+# SLAM Mapping Robot
+## Cornell ECE5725 Final Project
 
 Run main.py for the whole program
 
